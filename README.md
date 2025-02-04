@@ -1,4 +1,4 @@
-In the project commandline, you can run:
+In the project command line, you can run:
 ### `npm install`
 ### `npm start`
 
